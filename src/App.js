@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Start Here
+         Start practical learning of devops concepts including git, cloud and devops
         </a>
       </header>
     </div>
