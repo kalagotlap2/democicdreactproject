@@ -7,7 +7,9 @@ function App() {
       <header className="App-header">
       
         <p>
-         Welcome to Devops course
+         Welcome to Devops course including azure cloud 
+
+         learn latest technologies on devops
         </p>
         <a
           className="App-link"
